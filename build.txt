@@ -1,0 +1,9 @@
+To run the application perform the following steps:
+
+1) Install java and maven.
+2) cd into /SlideCraft folder.
+3) There you will see the pom file which shows that we use maven.
+4) To compile the project, run the following command:
+mvn clean compile
+5) To run the project, run the following command:
+mvn exec:java -Dexec.mainClass="SlideCraft.SlideCraft"
