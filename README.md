@@ -114,9 +114,6 @@ Help Menu ---
 
 -------------------------------------------------------------------------------
 
-## Visuals
-![image](https://github.com/yahnyshc/SlideCraftPhoto/assets/143096926/f27d0bde-e29d-4db5-948a-1c63404a7bc4)
-
 ## Installation
 To run the app:
 1) Install java and maven on your computer.
